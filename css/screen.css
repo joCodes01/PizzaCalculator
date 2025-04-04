@@ -1,0 +1,53 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #3D3D3D;
+    display: grid;
+    place-items: center;
+}
+
+body > div {
+    margin-top: 20svh;
+    box-shadow: 5px 5px 25px rgb(0 0 0 / 0.1);
+    padding: 7svh 5svw;
+    max-width: 20em;
+    border-radius: 0.5em;
+}
+
+h1 {
+    margin: 0;
+    font-size: 1.5em; 
+    color:rgb(105, 105, 105)
+}
+
+label {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+#price-display {
+    background-color: #F0F0F0;
+    padding: 1em .5em;;
+    margin: 0;
+}
+
+#form-input {
+    display: flex;
+    height: 3em;
+    gap: 0.5em;
+}
+
+#form-input input {
+    flex: 5;
+    border-style: solid;
+    padding: .5em;
+}
+
+#form-input button {
+    flex: 2;
+
+    
+
+}
