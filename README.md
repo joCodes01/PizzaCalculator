@@ -5,4 +5,4 @@
  Two large pizzas cost: $12.00
  Three large pizzas cost: $14.00
 
- access the calculator here: https://jocodes01.github.io/PizzaCalculator/
+ Access the calculator here: https://jocodes01.github.io/PizzaCalculator/
